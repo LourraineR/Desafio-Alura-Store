@@ -37,7 +37,7 @@ Abrir o notebook com Jupyter:jupyter notebook AluraStoreBr.ipynb
 Executar as células do notebook para reproduzir a análise e gráficos.
 
 
-##📍 Resultados Esperados
+## 📍 Resultados Esperados
 
 Visualizar gráficos de faturamento, satisfação dos clientes, categorias de produtos mais vendidas e valor médio do frete e extrair Insights sobre desempenho das lojas, permitindo decisões estratégicas, como venda de unidades menos rentáveis ou investimento em lojas mais lucrativas.
 
