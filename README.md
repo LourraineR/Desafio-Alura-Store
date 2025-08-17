@@ -30,22 +30,12 @@ Esse projeto tem como objetivo analisar o desempenho de lojas do Senhor João e,
   - `loja_4.csv`
 
 ## 🧾 Como Executar
-1. Clonar o repositório:
-```bash
-git clone [https://github.com/usuario/alura-store.git](https://github.com/LourraineR/Desafio-Alura-Store)
-Navegar até a pasta do projeto:
+1. Clonar o repositório:git clone [https://github.com/usuario/alura-store.git](https://github.com/LourraineR/Desafio-Alura-Store)
+Navegar até a pasta do projeto: cd alura-store
+Abrir o notebook com Jupyter:jupyter notebook AluraStoreBr.ipynb
 
-bash
-Copiar
-Editar
-cd alura-store
-Abrir o notebook com Jupyter:
-
-bash
-Copiar
-Editar
-jupyter notebook AluraStoreBr.ipynb
 Executar as células do notebook para reproduzir a análise e gráficos.
+
 
 ##📍 Resultados Esperados
 
@@ -54,3 +44,5 @@ Visualizar gráficos de faturamento, satisfação dos clientes, categorias de pr
 
 ## 🧾 Autor
 Lourraine R
+
+
